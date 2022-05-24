@@ -1,0 +1,18 @@
+.deco{
+    font-weight: bold;
+    font-family: "Trirong", serif;
+    font-size: 20px;
+    color: rgb(233, 226, 217);
+    margin:2%
+   
+}
+.listdeco{
+    background: rgba(255, 255, 255, 0.5);
+    border-radius: 15px;
+    box-shadow: 3px 5px #141313;
+    margin: 2%;
+    padding: 2%;
+}
+img{
+    border-radius: 30%;
+}

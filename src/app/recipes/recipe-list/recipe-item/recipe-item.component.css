@@ -1,0 +1,12 @@
+.listcard{
+    background: rgba(255, 255, 255, 0.5);
+    border-radius: 15px;
+    box-shadow: 3px 5px #141313;
+}
+img{
+    border-radius: 15%;
+}
+h4,p{
+    font-family: "Trirong", serif;
+    font-weight: bold;
+}
